@@ -1,0 +1,11 @@
+transaction_id,date,customer_name,product_category,amount_spent,region
+T1001,2023-01-01,Alice Johnson,Electronics,500.0,North
+T1002,01/02/2023,Bob Smith,Furniture,150,North
+T1003,2023-01-03,charlie brown,electronics,200.5,South
+T1004,2023-01-04,Alice Johnson,Furniture, ,South
+T1005,2023-01-05,EDWARD GAUL,ELECTRONICS,300,north
+T1006,2023-01-05,Bob Smith,Furniture,150,North
+T1007,06-01-2023,Fiona Glen,Electronics,450.75,West
+T1008,2023-01-07,George Hill,Groceries,75.25,West
+T1009,2023-01-08,Alice Johnson,Electronics,500.0,North
+T1010,2023-01-09,Hannah Abbott,Groceries,nan,East
